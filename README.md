@@ -45,7 +45,7 @@
 <a href="">
 	    <img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 </a>
-	<a href="https://www.notion.so/Frontend-Developer-c338a9311f804f46bdcb34a297c71961">
+	<a href="https://www.notion.so/Portfolio-Website-dd41d639432c45ee81fddb43256ed5b1">
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 </a>
 	
