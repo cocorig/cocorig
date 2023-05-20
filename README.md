@@ -1,22 +1,52 @@
-
-
 <div align=center>
-<h1>💛 Hi, I’m cocorig 💜</h1>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hayeon%20Github!&fontSize=70" />	
 </div>
 
 <div align=center>
 
-![cocorig's github stats](https://github-readme-stats.vercel.app/api?username=cocorig&show_icons=true&theme=radical) 
+안녕하세요👋 **프론트앤드 개발자가 꿈인 이하연입니다!**
+꾸준히 배운는것을 목표로 계속해서 앞으로 나아가는 개발자가 되겠습니다.
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cocorig&layout=compact&theme=dracula)](https://github.com/cocorig/cocorig
+<div align=center>
+
+<h3>🍀 Studying 🍀 </h3> 
+
+- - - - - - - -
+
+
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
+<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
+
+</div>
+
+<br>
+
+<div  align=center>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cocorig&layout=compact)](https://github.com/cocorig/cocorig
 )
 
-👩‍💻<h2>Studying </h2> 
+</div>
 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<br>
 
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<div align=center>
+
+<h3>🌷 SNS & Portfolio 🌷</h3> 
+
+- - - - -
+
+<a href="">
+	    <img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
+</a>
+	<a href="https://www.notion.so/Frontend-Developer-c338a9311f804f46bdcb34a297c71961">
+	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+</a>
+	
+</div>
+
