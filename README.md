@@ -1,53 +1,25 @@
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hayeon%20Github!&fontSize=70" />	
-</div>
 
-<div align=center>
+###  <h2> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">  Hello, I'm Lee Ha Yeon.</h2>
 
-안녕하세요👋 **프론트앤드 개발자를 꿈꾸는 이하연입니다!** <br>
-
-꾸준히 배운는것을 목표로 계속해서 앞으로 나아가는 개발자가 되겠습니다.
-</div>
-
-<div align=center>
-
-<h3>🍀 Studying 🍀 </h3> 
-
-- - - - - - - -
+<strong> 🙋‍♀️   I'm dreaming of becoming a front-end developer. <br/>
+🌱    I will become a developer who continues to move forward with the goal of continuously learning.
+</strong>
+- 🌱 I'm constantly learning...  
+- 🌍 I’m looking to collaborate on ...
+- 📫 Please contact me: [ihayeon@gmail.com](ihayeon@gmail.com)
+- ✏️ My blog: https://velog.io/@cocorig
 
 
-<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
-<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<h3>⚙️ Tech Stack in Study ⚙️</h3>
 
-</div>
+<br/>
 
-<br>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
-<div  align=center>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cocorig&layout=compact)](https://github.com/cocorig/cocorig
-)
-
-</div>
-
-<br>
-
-<div align=center>
-
-<h3>🌷 SNS & Portfolio 🌷</h3> 
-
-- - - - -
-
-<a href="https://velog.io/@cocorig">
-	  <img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
-</a>
-	<a href="">
-	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-</a>
-	
-</div>
 
